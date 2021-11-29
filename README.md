@@ -10,7 +10,7 @@ play again or exit.
 
 ## Usage
 
-If you would like to give my computer generated rock, paper, scissors game a try you can access it with this link:
+If you would like to give my computer generated rock, paper, scissors game a try you can access it with this link: https://chighum.github.io/Rock_Paper_Scissors/
 
 You can also see a few screenshots of the deployed website in action below:
 
